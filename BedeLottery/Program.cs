@@ -8,13 +8,7 @@ namespace LotteryGame
     {
         static void Main(string[] args)
         {
-            //LotteryConfig config = new LotteryConfig
-            //{
-            //    PlayerBalance = GetValidInput("Enter the starting balance for each player ($10 default): ", 10, 1, 100),
-            //    TicketPrice = GetValidInput("Enter the ticket price ($1 default): ", 1, 1, 10),
-            //    MinPlayers = GetValidInput("Enter the minimum number of players (10 default): ", 10, 2, 50),
-            //    MaxPlayers = GetValidInput("Enter the maximum number of players (15 default): ", 15, 10, 100)
-            //};
+            
             LotteryConfig config = new LotteryConfig
             {
                 PlayerBalance = 10, // Hardcoded value for player balance
