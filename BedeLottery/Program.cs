@@ -11,10 +11,10 @@ namespace LotteryGame
             
             LotteryConfig config = new LotteryConfig
             {
-                PlayerBalance = 10, // Hardcoded value for player balance
-                TicketPrice = 1,    // Hardcoded value for ticket price
-                MinPlayers = 10,    // Hardcoded value for minimum players
-                MaxPlayers = 15     // Hardcoded value for maximum players
+                PlayerBalance = 10, //  Value for player balance
+                TicketPrice = 1,    // Value for ticket price
+                MinPlayers = 10,    // Value for minimum players
+                MaxPlayers = 15     // Value for maximum players
             };
 
             LotteryManager lotteryManager = new LotteryManager(config);
