@@ -1,0 +1,8 @@
+C:\Users\aravi\source\repos\BedeLottery\BedeLottery\bin\Debug\BedeLottery.exe.config
+C:\Users\aravi\source\repos\BedeLottery\BedeLottery\bin\Debug\BedeLottery.exe
+C:\Users\aravi\source\repos\BedeLottery\BedeLottery\bin\Debug\BedeLottery.pdb
+C:\Users\aravi\source\repos\BedeLottery\BedeLottery\obj\Debug\BedeLottery.csproj.AssemblyReference.cache
+C:\Users\aravi\source\repos\BedeLottery\BedeLottery\obj\Debug\BedeLottery.csproj.SuggestedBindingRedirects.cache
+C:\Users\aravi\source\repos\BedeLottery\BedeLottery\obj\Debug\BedeLottery.csproj.CoreCompileInputs.cache
+C:\Users\aravi\source\repos\BedeLottery\BedeLottery\obj\Debug\BedeLottery.exe
+C:\Users\aravi\source\repos\BedeLottery\BedeLottery\obj\Debug\BedeLottery.pdb
